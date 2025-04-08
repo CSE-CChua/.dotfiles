@@ -1,4 +1,3 @@
-i
 # My Dotfiles
 These are my dotfile Configuration files for different software in Bash.
 ## .nanorc
